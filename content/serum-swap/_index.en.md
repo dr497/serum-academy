@@ -59,7 +59,15 @@ Takers are charged 0.30%. Of that:
 
 - 0.04% goes to a SRM buy/burn.
 
-- 0.01% goes to the GUI hoster; you can set this in the gui source code.
+- 0.01% goes to the GUI hoster; you can set this in the GUI source code.
+
+{{% notice tip %}}
+The 25bp fees are tokens left in the pool
+{{% /notice %}}
+
+{{% notice tip %}}
+The 4bp and 1bp fees are transfers of LP tokens
+{{% /notice %}}
 
 ## How do you host a Serum Swap GUI?
 
