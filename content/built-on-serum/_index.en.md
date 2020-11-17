@@ -121,6 +121,8 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
 
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Minter](https://bonfida.com/mint)
+- [Solong](https://twitter.com/Solongwallet/status/1328520460456189952)
+- [SPL Manager](http://splmanager.com/)
 
 ## Tutorials and Projects
 
