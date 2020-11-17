@@ -181,6 +181,10 @@
   </url>
   
   <url>
+    <loc>/en/videos/</loc>
+  </url>
+  
+  <url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"

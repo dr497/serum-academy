@@ -119,6 +119,13 @@
 	"content": "Create your own GUI Serum GUI You will find the official repository of Serum DEX UI here: https://github.com/project-serum/serum-dex-ui. This provides you with everything you need to start your own Serum GUI.\nOnce you have forked the repository, you can run a local environment by running:\nyarn start Customizing The Serum DEX UI uses React and Ant Desing UI library. To learn how to customize it, refer to their official guide\nCollecting fees Serum allows you to collect 20% of the fees for the orders made on your GUI. In order to collect the fees, you need to modify the .env file that looks like this:\nREACT_APP_USDT_REFERRAL_FEES_ADDRESS=\u0026#39;\u0026#39; REACT_APP_USDC_REFERRAL_FEES_ADDRESS=\u0026#39;\u0026#39; To collect fees enter your USDT SPL and USD SPL addresses, for example:\nREACT_APP_USDT_REFERRAL_FEES_ADDRESS=9EscMUvizE1ThHWuWQgs8siDz4r54yVxhZDub3ihWQAX REACT_APP_USDC_REFERRAL_FEES_ADDRESS=9GiKG99ngtKzhQcNXtHokuhx5gk7ftKfrmKtrybHFNa1 Setting your own domain name The package.json file contains a field called homepage, change it to your name domain.\nHosting There are different solutions to host your GUI. You can host it for free on Github Pages or host it on your own server.\nGithub Pages This is the easiest way of hosting and deploying a GUI, you simply have to use the following command to deploy your GUI\nyarn deploy The GUI will then be hosted on the gh-pages branch of your Github repository.\nHosting on your own server Alternatively, you can host your GUI on your own server and use Nginx for instance to serve it. To create the production build run\nyarn build The build will be created in the build folder of the working directory.\n"
 },
 {
+	"uri": "/en/videos/",
+	"title": "Videos",
+	"tags": [],
+	"description": "",
+	"content": "Explainers  Serum - What is it? Why use it? and How to use it - by Serum DEX Channel  "
+},
+{
 	"uri": "/en/categories/",
 	"title": "Categories",
 	"tags": [],
