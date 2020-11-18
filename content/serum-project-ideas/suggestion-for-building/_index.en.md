@@ -48,6 +48,6 @@ weight: 1
   - If your app needs to mint tokens, consider using https://spl-token-ui.com
   - Generally check out https://serum-academy.com/en/built-on-serum/ and https://github.com/project-serum/awesome-serum for ideas and tools
 
-- For fees going to SRM governance, you can assign to this address if you want
+- For fees going to SRM governance, you can assign to [this address](https://explorer.solana.com/address/7EEAZWuzNZTUSCdwrw1JS4eX9D8uTTL91owsk4GC3zNB/tokens) if you want
 
 - Something about suggesting that you add your project to awesome-serum, serum-academy, built-on-serum, etc. when it’s ready for users
