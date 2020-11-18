@@ -74,7 +74,7 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 ### Mobile
 
-- MathWallet: [https://mathwallet.org/en-us/](https://mathwallet.org/en-us/)
+- MathWallet: [https://mathwallet.org](https://mathwallet.org/en-us/)
 
 ## Host a GUI
 
