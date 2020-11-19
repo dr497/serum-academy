@@ -67,3 +67,12 @@ weight: 5
 - SPL 类型的通证
 
 网址: [https://solflare.com](https://solflare.com)
+
+### [ezDeFi](https://ezdefi.com)
+
+- SOL
+- SPL 类型的通证
+- 支持 Serum DEX
+- 支持 ERC20 和 SPL 类型的通证
+
+网址: [https://ezdefi.com](https://ezdefi.com)
