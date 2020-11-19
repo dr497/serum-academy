@@ -91,3 +91,15 @@ Website: [https://solflare.com](https://solflare.com)
 - Support SPL tokens swap
 
 Website: [https://solongwallet.com](https://solongwallet.com)
+
+### [ezDeFi](https://ezdefi.com/)
+
+- SOL
+- SPL Tokens
+- Supports Serum trading
+- Browser extension
+- Mobile App
+- Cloud Key backup & Restore
+- Profile syncing between Mobile & Browser
+
+Website: [https://ezdefi.com](https://ezdefi.com)
