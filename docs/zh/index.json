@@ -74,7 +74,7 @@
 	"title": "钱包支持",
 	"tags": [],
 	"description": "",
-	"content": "FTX  SOL SPL 类型的通证 支持 ERC20 和 SPL 类型的通证，两者间可进行兑换  网址: https://ftx.com\n币安  SOL SRM (仅支持 ERC20)  网址: https://binance.com\nBitMax  SOL SRM (仅支持 ERC20)  网址: https://bitmax.io\nFTX US  SOL  网址: https://ftx.us\nCoin98  SOL SPL 类型的通证 支持直接使用 Coin98 app 进行 Serum 交易  网址: https://coin98.app\nLedger  SOL  网址: https://www.ledger.com\nSollet.io  SOL SPL 类型的通证 支持 Serum DEX 支持 ERC20 和 SPL 类型的通证，两者间可进行兑换  网址: https://www.sollet.io\n麦子钱包  SOL SPL 类型的通证  网址: https://mathwallet.org\nSolflare  SOL SPL 类型的通证  网址: https://solflare.com\n"
+	"content": "FTX  SOL SPL 类型的通证 支持 ERC20 和 SPL 类型的通证，两者间可进行兑换  网址: https://ftx.com\n币安  SOL SRM (仅支持 ERC20)  网址: https://binance.com\nBitMax  SOL SRM (仅支持 ERC20)  网址: https://bitmax.io\nFTX US  SOL  网址: https://ftx.us\nCoin98  SOL SPL 类型的通证 支持直接使用 Coin98 app 进行 Serum 交易  网址: https://coin98.app\nLedger  SOL  网址: https://www.ledger.com\nSollet.io  SOL SPL 类型的通证 支持 Serum DEX 支持 ERC20 和 SPL 类型的通证，两者间可进行兑换  网址: https://www.sollet.io\n麦子钱包  SOL SPL 类型的通证  网址: https://mathwallet.org\nSolflare  SOL SPL 类型的通证  网址: https://solflare.com\nezDeFi  SOL SPL 类型的通证 支持 Serum DEX 支持 ERC20 和 SPL 类型的通证  网址: https://ezdefi.com\n"
 },
 {
 	"uri": "/zh/categories/",
