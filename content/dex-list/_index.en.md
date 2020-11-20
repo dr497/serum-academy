@@ -12,7 +12,7 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Bonfida Serum DEX: [https://bonfida.com/dex](https://bonfida.com/dex)
 
-- Cryptocurrencies.Ai DEX: [https://dex.cryptocurrencies.ai/](https://dex.cryptocurrencies.ai/)
+- Cryptocurrencies.Ai DEX: [https://dex.cryptocurrencies.ai/](https://cryptocurrencies.ai/)
 
 - Serum Today: [https://serum.today](https://serum.today)
 
@@ -22,27 +22,15 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Project Serum DEX: [https://dex.projectserum.com](https://dex.projectserum.com)
 
-- SerumStake DEX: [https://dex.serumstakers.com](https://dex.serumstakers.com)
-
 - Tech.Ed Training: [https://serum.techedtraining.com/](https://serum.techedtraining.com/)
 
 - Santosha Exchange: [https://exchange.santosha.digital](https://exchange.santosha.digital)
 
 - Pangea DEX [https://pangeadex.com/](https://pangeadex.com/)
 
-- SerumDex.Exchange: [https://serumdex.exchange](https://serumdex.exchange)
-
-- SolFlare DEX: [https://dex.solflare.com](https://dex.solflare.com)
-
-- Advance Finance DEX: [https://advance.finance](https://advance.finance)
-
 - Viralic DEX: [https://dex.viralic.io](https://dex.viralic.io)
 
-- Illuminati Finance: [http://illuminati.finance/serum](http://illuminati.finance/serum)
-
 - Ourord DEX: [https://dex.ourord.com](https://dex.ourord.com)
-
-- BallsDeep DEX: [https://serumdex.ballsdeep.me](https://serumdex.ballsdeep.me)
 
 - TradeOnSerum DEX: [https://www.tradeonserum.com/](https://www.tradeonserum.com/)
 
