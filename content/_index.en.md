@@ -14,7 +14,7 @@ Developer resources are available on our [dedicated section](/en/developer-resou
 
 Learn [how to trade on Serum DEX](/en/serum-dex)
 
-![learn-trade](/images/homepage/learn-how-to-trade.gif?classes=shadow&width=60pc)
+![learn-trade](/images/homepage/learn-how-to-trade.gif?classes=shadow&width=40pc)
 
 ## Current tutorials
 
