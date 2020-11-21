@@ -10,6 +10,12 @@ The goal of **Serum Academy** is to teach people how to use Serum ecosystem and 
 
 Developer resources are available on our [dedicated section](/en/developer-resources)
 
+## Learn how to trade on Serum
+
+Learn [how to trade on Serum DEX](/en/serum-dex)
+
+![learn-trade](/images/homepage/learn-how-to-trade.gif?classes=shadow&width=60pc)
+
 ## Current tutorials
 
 Below is a list of the most recent tutorials available:

@@ -39,7 +39,7 @@
 	"title": "Connect your wallet",
 	"tags": [],
 	"description": "",
-	"content": "Connect your wallet to Serum See our DEXes list for the list of official DEXes.\nOnce you are in Serum DEX, make sure you are on mainnet-beta on the top right corner in order to trade real markets.\nClick Connect wallet (Make sure you have already switched to your desirable account in Sollet.io) and finish the connection process by clicking on Connect\nAnd you will see your wallet balance synced with your Sollet.io balance.\nYou can disconnect your wallet at any time by clicking on Disconnect on the top right corner of Serum DEX.\n"
+	"content": "Connect your wallet to Serum Once you are in Serum DEX, make sure you are on mainnet-beta on the top right corner in order to trade real markets.\nClick Connect wallet (Make sure you have already switched to your desirable account in Sollet.io) and finish the connection process by clicking on Connect\nAnd you will see your wallet balance synced with your Sollet.io balance.\nYou can disconnect your wallet at any time by clicking on Disconnect on the top right corner of Serum DEX.\nSee our DEXes list for the list of official DEXes.\n"
 },
 {
 	"uri": "/en/serum-project-ideas/",
@@ -74,7 +74,7 @@
 	"title": "Trade",
 	"tags": [],
 	"description": "",
-	"content": "Trade Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.\nLet’s buy 88 BASE tokens at a limit price of 3.1 QUOTE tokens each and make sure you approve this transaction on your Sollet.io popup.\nNow you can see your limit buy order on the Orderbook, also in the Open Orders.\nNote that cancelling your Open Orders or having the trade successfully matched and traded won’t update your wallet balance. These funds sit in an intermediary account and require you to settle them back to your own sollet wallet. You have to go to Balances to settle them back to your Sollet.io wallet.\n Your Balances after cancelling the limit buy order of “88 BASE tokens at limit price 3.1 QUOTE”    Your Balances after buying “11 BASE tokens at the price of 2.22 QUOTE”\n Before settlement  After settlement     Note that you need to settle your trades. Otherwise they will sit in an intermediary account.\n "
+	"content": "Trade Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.\nLet’s buy 10 SRM tokens at a limit price of 1.14 USDT each and make sure you approve this transaction on your Sollet.io popup.\nNow you can see your limit buy order on the Orderbook, also in the Open Orders.\nNote that cancelling your Open Orders or having the trade successfully matched and traded won’t update your wallet balance. These funds sit in an intermediary account and require you to settle them back to your own sollet wallet. You have to go to Balances to settle them back to your Sollet.io wallet.\n Your Balances after cancelling the limit buy order of 10 SRM at limit price 1.14 USDT    Your Balances after buying 10 SRM at limit price 1.14 USDT\n Before settlement  After settlement     Note that you need to settle your trades. Otherwise they will sit in an intermediary account.\n "
 },
 {
 	"uri": "/en/getting-involved/",
@@ -144,7 +144,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Serum Academy Goal The goal of Serum Academy is to teach people how to use Serum ecosystem and build projects on Solana and Serum.\nDeveloper resources are available on our dedicated section\nCurrent tutorials Below is a list of the most recent tutorials available:\n How to trade on Serum DEX How to convert ERC20 tokens to SPL tokens  List of project ideas for Serum  Project Ideas  DEX List You will find the list of all Serum DEXes on our official page\nContribute to the Serum Academy The source of this project can be found on GitHub: https://github.com/dr497/serum-academy\nFeel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it\nYour modification will be deployed automatically when merged.\n "
+	"content": "Serum Academy Goal The goal of Serum Academy is to teach people how to use Serum ecosystem and build projects on Solana and Serum.\nDeveloper resources are available on our dedicated section\nLearn how to trade on Serum Learn how to trade on Serum DEX\nCurrent tutorials Below is a list of the most recent tutorials available:\n How to trade on Serum DEX How to convert ERC20 tokens to SPL tokens  List of project ideas for Serum  Project Ideas  DEX List You will find the list of all Serum DEXes on our official page\nContribute to the Serum Academy The source of this project can be found on GitHub: https://github.com/dr497/serum-academy\nFeel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it\nYour modification will be deployed automatically when merged.\n "
 },
 {
 	"uri": "/en/tags/",

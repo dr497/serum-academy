@@ -6,9 +6,7 @@ weight: 2
 
 ## Connect your wallet to Serum
 
-See our [DEXes list](/en/dex-list) for the list of official DEXes.
-
-Once you are in Serum DEX, make sure you are on **mainnet-beta** on the top right corner in order to trade real markets.
+Once you are in [Serum DEX](https://bonfida.com/dex), make sure you are on **mainnet-beta** on the top right corner in order to trade real markets.
 
 ![serum-dex](/images/articles/serum-dex/connect-wallet/serum-dex.png?classes=shadow&width=50pc)
 
@@ -21,3 +19,5 @@ And you will see your wallet balance synced with your [Sollet.io](https://sollet
 You can disconnect your wallet at any time by clicking on **Disconnect** on the top right corner of Serum DEX.
 
 ![disconnect](/images/articles/serum-dex/connect-wallet/disconnect.png?classes=shadow&width=25pc)
+
+See our [DEXes list](/en/dex-list) for the list of official DEXes.
