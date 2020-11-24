@@ -56,6 +56,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Serum Swap Folkvang.io [https://serum-swap.folkvang.io/](https://serum-swap.folkvang.io/)
 
+- Swapcon.io [https://swapcon.io/](https://swapcon.io/)
+
 - CryptoStarkWolf Swap: [https://serum-swap.cryptostarkwolf.com/](https://serum-swap.cryptostarkwolf.com/)
 
 - SRMSwap(中文版): [https://srmswap.com/](https://srmswap.com/)
