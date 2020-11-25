@@ -16,6 +16,8 @@ Learn [how to trade on Serum DEX](/en/serum-dex)
 
 ![learn-trade](/images/homepage/homepage.png?classes=shadow&width=60pc)
 
+Screenshot from [Bonfida DEX](https://bonfida.com/dex)
+
 ## Current tutorials
 
 Below is a list of the most recent tutorials available:
