@@ -7,7 +7,7 @@ weight: 1
 [Serum Swap](https://swap.projectserum.com/#/) is a new AMM on Serum! You can find the source code on [Github](https://github.com/project-serum/oyster-swap).
 
 {{% notice tip %}}
-Try it now at: [https://swap.projectserum.com](https://swap.projectserum.com)
+Try it now at: [https://swap.projectserum.com](https://swap.projectserum.com) or [https://swap.bonfida.com](https://swap.bonfida.com)
 {{% /notice %}}
 
 ## How does Serum Swap work?

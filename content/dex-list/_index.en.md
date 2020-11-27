@@ -52,6 +52,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 ### Web
 
+- Bonfida Swap: [https://swap.bonfida.com](https://swap.bonfida.com)
+
 - Serum Swap: [http://swap.projectserum.com/](http://swap.projectserum.com/)
 
 - Serum Swap Folkvang.io [https://serum-swap.folkvang.io/](https://serum-swap.folkvang.io/)
