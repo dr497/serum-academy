@@ -37,6 +37,7 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Serum Swap](/en/serum-project-ideas/project-ideas/#amm-bots-using-pools)
   - [Source code](https://github.com/project-serum/oyster-swap)
+- [Bonfida Swap GUI](https://swap.bonfida.com)
 - [Folkvang Serum Swap GUI](https://serum-swap.folkvang.io/)
 
 ### NFT
