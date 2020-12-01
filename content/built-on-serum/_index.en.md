@@ -135,6 +135,10 @@ A technical introduction to the Serum DEX can be found [here](https://docs.googl
   - [GUI](https://github.com/dr497/serum-dex-ui)
   - [Wallet](https://github.com/dr497/spl-token-wallet)
 
+## Customer Support
+
+- [Bonfida's Customer Support](https://help.bonfida.com)
+
 ## Popular Token Contracts
 
 - [Serum (SRM) SPL](https://explorer.solana.com/address/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt)
