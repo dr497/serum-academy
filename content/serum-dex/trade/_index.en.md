@@ -4,6 +4,10 @@ title: Trade
 weight: 3
 ---
 
+{{% notice tip %}}
+Need more help? Contact [Bonfida's customer support](https://help.bonfida.com)
+{{% /notice %}}
+
 ## Trade
 
 Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.

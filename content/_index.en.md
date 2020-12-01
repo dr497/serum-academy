@@ -25,6 +25,10 @@ Below is a list of the most recent tutorials available:
 - [How to trade on Serum DEX](/en/serum-dex)
 - [How to convert ERC20 tokens to SPL tokens](/en/serum-dex/sol-wallet/#convert-erc20-to-spl-tokens)
 
+## Customer Support
+
+- [Bonfida's Customer Support](https://help.bonfida.com)
+
 ## List of project ideas for Serum
 
 - [Project Ideas](/en/serum-project-ideas)
