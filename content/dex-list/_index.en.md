@@ -12,7 +12,7 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Bonfida Serum DEX: [https://bonfida.com/dex](https://bonfida.com/dex)
 
-- Cryptocurrencies.Ai DEX: [https://dex.cryptocurrencies.ai/](https://cryptocurrencies.ai/)
+- Cryptocurrencies.Ai DEX: [https://dex.cryptocurrencies.ai/](https://dex.cryptocurrencies.ai/)
 
 - Serum Today: [https://serum.today](https://serum.today)
 
@@ -43,6 +43,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 - ProjectSerumDex: [https://projectserumdex.com/#/](https://projectserumdex.com/#/) - This GUI is not affiliated to [Project Serum](https://projectserum.com)
 
 - In girum imus nocte et consumimur igni DEX : [https://ingirumimusnocteetconsumimurigni.io/#/](https://ingirumimusnocteetconsumimurigni.io/#/)
+
+- [Luna DEX](https://lunadex.com/)
 
 ### Mobile
 
