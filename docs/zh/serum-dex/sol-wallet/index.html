@@ -33,21 +33,21 @@
     <title>SOL钱包 :: Serum Academy</title>
 
     
-    <link href="../../../css/nucleus.css?1607050072" rel="stylesheet">
-    <link href="../../../css/fontawesome-all.min.css?1607050072" rel="stylesheet">
-    <link href="../../../css/hybrid.css?1607050072" rel="stylesheet">
-    <link href="../../../css/featherlight.min.css?1607050072" rel="stylesheet">
-    <link href="../../../css/perfect-scrollbar.min.css?1607050072" rel="stylesheet">
-    <link href="../../../css/auto-complete.css?1607050072" rel="stylesheet">
-    <link href="../../../css/atom-one-dark-reasonable.css?1607050072" rel="stylesheet">
-    <link href="../../../css/theme.css?1607050072" rel="stylesheet">
-    <link href="../../../css/hugo-theme.css?1607050072" rel="stylesheet">
+    <link href="../../../css/nucleus.css?1607067988" rel="stylesheet">
+    <link href="../../../css/fontawesome-all.min.css?1607067988" rel="stylesheet">
+    <link href="../../../css/hybrid.css?1607067988" rel="stylesheet">
+    <link href="../../../css/featherlight.min.css?1607067988" rel="stylesheet">
+    <link href="../../../css/perfect-scrollbar.min.css?1607067988" rel="stylesheet">
+    <link href="../../../css/auto-complete.css?1607067988" rel="stylesheet">
+    <link href="../../../css/atom-one-dark-reasonable.css?1607067988" rel="stylesheet">
+    <link href="../../../css/theme.css?1607067988" rel="stylesheet">
+    <link href="../../../css/hugo-theme.css?1607067988" rel="stylesheet">
     
-    <link href="../../../css/theme-mine.css?1607050072" rel="stylesheet">
+    <link href="../../../css/theme-mine.css?1607067988" rel="stylesheet">
     
     
 
-    <script src="../../../js/jquery-3.3.1.min.js?1607050072"></script>
+    <script src="../../../js/jquery-3.3.1.min.js?1607067988"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -76,14 +76,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="../../../js/lunr.min.js?1607050072"></script>
-<script type="text/javascript" src="../../../js/auto-complete.js?1607050072"></script>
+<script type="text/javascript" src="../../../js/lunr.min.js?1607067988"></script>
+<script type="text/javascript" src="../../../js/auto-complete.js?1607067988"></script>
 <script type="text/javascript">
     
         var baseurl = "\/zh";
     
 </script>
-<script type="text/javascript" src="../../../js/search.js?1607050072"></script>
+<script type="text/javascript" src="../../../js/search.js?1607067988"></script>
 
     
   </div>
@@ -581,7 +581,11 @@
     <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#创建您的sol钱包和入金">创建您的SOL钱包和入金</a></li>
+    <li><a href="#创建您的sol钱包和入金">创建您的SOL钱包和入金</a>
+      <ul>
+        <li><a href="#将erc20转换成spl制式通证">将ERC20转换成SPL制式通证</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
     </div>
@@ -613,25 +617,48 @@
 <p><img src="../../../images/articles/serum-dex/sol-wallet/create-new-wallet.png?classes=shadow&amp;width=25pc" alt="creat-wallet"></p>
 <p>您将seed words保存在一个安全的地方后，您可以为您的 <a href="https://sollet.io">Sollet.io</a> 钱包配置一组密码。虽然密码不是必需的，但因为安全理由，我们还是议您使用密码。</p>
 <p><img src="../../../images/articles/serum-dex/sol-wallet/password.png?classes=shadow&amp;width=25pc" alt="password"></p>
-<p>不论您是否设定了密码，您已经成功创建了您的SOL钱包。下一步就是将SOL转入到您创建的钱包中。SOL可以在 <a href="https://binance.com">币安</a> 或 <a href="https://ftx.com">FTX</a> 等交易所买到。</p>
+<p>不论您是否设定了密码，您已经成功创建了您的SOL钱包。下一步就是将SOL转入到您创建的钱包中。SOL可以在 <a href="https://binance.com">币安</a>、 <a href="https://ftx.com">FTX</a> 或 <a href="https://okex.com">OKEx</a>等交易所买到。</p>
 <p><img src="../../../images/articles/serum-dex/sol-wallet/balance.png?classes=shadow&amp;width=50pc" alt="balance"></p>
 <p>我们现在转一些SOL通证到刚创建的钱包。点击 <strong>接收（Receive）</strong> 后会出现弹窗，上面有您专属的SOL地址。您可以从交易所转入SOL通证到这地址。<strong>该地址仅能接受SOL通证，请不要将其他SPL制式通证（例如SRM）转入到该地址</strong></p>
 <p><img src="../../../images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&amp;width=50pc" alt="deposit-sol"></p>
-<p>成功将SOL通证转入钱包后，您可以在钱包创建其他SPL制式通证地址。点击页面右上角的 <strong>+</strong> 图示后会出现个弹窗，在弹窗内您可以选择添加主要通证（Popular Tokens）例如: <strong>SRM</strong>, <strong>MSRM</strong>, <strong>FTT</strong>, <strong>BTC</strong>, <strong>ETH</strong>, <strong>LINK</strong> <strong>XRP</strong>, <strong>USDT</strong> 。成功添加以后请获取这些SPL制式通证的入金地址（Deposit Address）。
-请将USDC, USDT, XRP, LINK, YFI, FTT, ETH, BTC原生通证存入您的FTX账户钱包，并从FTX将USDC, USDT, XRP, LINK, YFI, FTT, ETH, BTC提取到sollet的对应SPL制式通证的入金地址。FTX会自动将这些通证转化为SPL制式通证。
+<p>您也可以充值ETH然后将它<strong>CONVERT（转换）<strong>成SOL。您仅需点击ETH，然后连接您的</strong>Metamask</strong>钱包即可。</p>
+<p><img src="../../../images/articles/serum-dex/sol-wallet/deposit-sol-eth.png?classes=shadow&amp;width=30pc" alt="deposit-sol-eth"></p>
+<p>成功将SOL通证转入钱包后，您可以在钱包创建其他SPL制式通证地址。点击页面右上角的 <strong>+</strong> 图示后会出现个弹窗，在弹窗内您可以选择添加主要通证（Popular Tokens）例如: <strong>SRM</strong>, <strong>MSRM</strong>, <strong>FTT</strong>, <strong>BTC</strong>, <strong>ETH</strong>, <strong>LINK</strong> <strong>XRP</strong>, <strong>USDT</strong> 。成功添加以后有以下几种方式入金：</p>
+<ul>
+<li>
+<p>您可以使用<a href="https://sollet.io">Sollet.io</a>以及<strong>Metamask</strong>来<strong>直接存入ERC20通证</strong>然后将他们**CONVERT（转换）**为SPL版本通证（以下会做详细介绍）。</p>
+</li>
+<li>
+<p>您也可以将不同链上通证（ERC20、XRP、BTC等）直接存入 <a href="https://ftx.com">FTX</a>，然后再将它们提取到<a href="https://sollet.io">Sollet.io</a>钱包。FTX会自动将这些通证转化为SPL制式通证。
 当您需要把这些SPL制式通证转化回原生通证仅需将他们提取到FTX地址即可。</p>
+</li>
+</ul>
 <p><img src="../../../images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&amp;width=25pc" alt="add-token-popular"></p>
 <p>以下您能看到您的SOL通证地址和SRM通证地址。您可以使用这些地址来存入资金到您的 <a href="https://sollet.io">Sollet.io</a> 钱包，或提取款项。</p>
 <p><img src="../../../images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&amp;width=50pc" alt="srm-balance"></p>
 <p>如果您想要添加其他通证到钱包，您也可以手动添加，只需要输入该通证的 <strong>铸币地址（Mint Address）</strong> 即可。</p>
 <p><img src="../../../images/articles/serum-dex/sol-wallet/add-token-manual.png?classes=shadow&amp;width=25pc" alt="add-token-manual">.</p>
-<p>现在我们已经成功入金至 <a href="https://sollet.io">Sollet.io</a> 钱包。您已经准备好在Serum交易了！</p>
+<h3 id="将erc20转换成spl制式通证">将ERC20转换成SPL制式通证</h3>
+<p>Sollet.io允许您使用<strong>MetaMask Wallet</strong>进行ERC20与SPL制式的互相转换。</p>
+<p>选择您希望存入的通证，然后选择<strong>ERC20</strong>。</p>
+<p><img src="../../../images/articles/serum-dex/sol-wallet/deposit-erc20.png?classes=shadow&amp;width=25pc" alt="erc20 tab">.</p>
+<p>现在点击 <strong>CONNECT TO METAMASK（连接Metamask）</strong>，然后在<strong>MetaMask</strong>弹窗中点击<strong>Confirm（确认）</strong>。</p>
+<p>当您的钱包连接成功以后请输入您想要转换的<strong>ERC20</strong>通证的数量然后点击<strong>CONVERT（转换）</strong>。然后请确认<strong>MetaMask</strong>的弹窗并选择您想要支付的Gas：</p>
+<p><img src="../../../images/articles/serum-dex/sol-wallet/metamask-popups.png?classes=shadow&amp;width=25pc" alt="metamask popup">.</p>
+<p>然后请等待这笔转账在链上确认。</p>
+<p><img src="../../../images/articles/serum-dex/sol-wallet/erc20-confirm.png?classes=shadow&amp;width=25pc" alt="confirmation">.</p>
+<p>转账确认以后，这些通证将会在您钱包中出现。
+现在您已经成功入金到<a href="https://sollet.io">Sollet.io</a>钱包。可以开始在Serum上交易了！</p>
 
-<div class="notices warning" ><p>通证地址（Token Address）或 <strong>铸币地址（Mint Address）</strong> 是通证的 <strong>合约地址</strong> ，可以理解为通证的 <strong>识别码</strong> 。</p>
+<div class="notices 小贴士" ><p>您可以使用**convert（转换）**功能来入金ETH和ERC20通证到<a href="https://sollet.io">Sollet.io</a>。</p>
 </div>
 
 
-<div class="notices warning" ><p><strong>入金地址（Deposit Address）</strong> 用来存入通证的地址。</p>
+<div class="notices 警告" ><p>通证地址（Token Address）或 <strong>铸币地址（Mint Address）</strong> 是通证的 <strong>合约地址</strong> ，可以理解为通证的 <strong>识别码，请不要发送入金到这个地址</strong></p>
+</div>
+
+
+<div class="notices 警告" ><p><strong>入金地址（Deposit Address）</strong> 用来存入通证的地址。</p>
 </div>
 
 
@@ -879,19 +906,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="../../../js/clipboard.min.js?1607050072"></script>
-    <script src="../../../js/perfect-scrollbar.min.js?1607050072"></script>
-    <script src="../../../js/perfect-scrollbar.jquery.min.js?1607050072"></script>
-    <script src="../../../js/jquery.sticky.js?1607050072"></script>
-    <script src="../../../js/featherlight.min.js?1607050072"></script>
-    <script src="../../../js/highlight.pack.js?1607050072"></script>
+    <script src="../../../js/clipboard.min.js?1607067988"></script>
+    <script src="../../../js/perfect-scrollbar.min.js?1607067988"></script>
+    <script src="../../../js/perfect-scrollbar.jquery.min.js?1607067988"></script>
+    <script src="../../../js/jquery.sticky.js?1607067988"></script>
+    <script src="../../../js/featherlight.min.js?1607067988"></script>
+    <script src="../../../js/highlight.pack.js?1607067988"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="../../../js/modernizr.custom-3.6.0.js?1607050072"></script>
-    <script src="../../../js/learn.js?1607050072"></script>
-    <script src="../../../js/hugo-learn.js?1607050072"></script>
+    <script src="../../../js/modernizr.custom-3.6.0.js?1607067988"></script>
+    <script src="../../../js/learn.js?1607067988"></script>
+    <script src="../../../js/hugo-learn.js?1607067988"></script>
 
-    <link href="../../../mermaid/mermaid.css?1607050072" rel="stylesheet" />
-    <script src="../../../mermaid/mermaid.js?1607050072"></script>
+    <link href="../../../mermaid/mermaid.css?1607067988" rel="stylesheet" />
+    <script src="../../../mermaid/mermaid.js?1607067988"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
