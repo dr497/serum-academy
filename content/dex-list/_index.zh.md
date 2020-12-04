@@ -4,9 +4,10 @@ title: DEX 网址名单
 weight: 3
 ---
 
-## DEX 网址名单
+## Serum DEX 名单
+有多个团队搭建了基于Serum DEX的前端；某一些前端做了重大改进，请见一下列表。
 
-以下是接入 Serum DEX 的网址：
+### 网页端
 
 - Bonfida Serum DEX: [https://bonfida.com/dex](https://bonfida.com/dex)
 
@@ -20,23 +21,15 @@ weight: 3
 
 - Project Serum DEX: [https://dex.projectserum.com](https://dex.projectserum.com)
 
-- Coin98: [https://coin98.app](https://coin98.app)
+- Tech.Ed Training: [https://serum.techedtraining.com/](https://serum.techedtraining.com/)
 
 - Santosha Exchange: [https://exchange.santosha.digital](https://exchange.santosha.digital)
 
-- Pangea DEX: [https://pangeadex.com/](https://pangeadex.com/)
+- Pangea DEX [https://pangeadex.com/](https://pangeadex.com/)
 
-- SerumDex.Exchange: [https://serumdex.exchange](https://serumdex.exchange)
-
-- SolFlare DEX: [https://dex.solflare.com](https://dex.solflare.com)
-
-- Advance Finance DEX: [https://advance.finance](https://advance.finance)
-
-- Illuminati Finance: [http://illuminati.finance/serum](http://illuminati.finance/serum)
+- Viralic DEX: [https://dex.viralic.io](https://dex.viralic.io)
 
 - Ourord DEX: [https://dex.ourord.com](https://dex.ourord.com)
-
-- BallsDeep DEX: [https://serumdex.ballsdeep.me](https://serumdex.ballsdeep.me)
 
 - TradeOnSerum DEX: [https://www.tradeonserum.com/](https://www.tradeonserum.com/)
 
@@ -46,6 +39,47 @@ weight: 3
 
 - CryptoStarkWolf DEX: [https://serum-dex.cryptostarkwolf.com/](https://serum-dex.cryptostarkwolf.com/)
 
+- ProjectSerumDex: [https://projectserumdex.com/#/](https://projectserumdex.com/#/) - This GUI is not affiliated to [Project Serum](https://projectserum.com)
+
 - In girum imus nocte et consumimur igni DEX : [https://ingirumimusnocteetconsumimurigni.io/#/](https://ingirumimusnocteetconsumimurigni.io/#/)
 
-Serum DEX 的 GUI 原始码是公开的，并存放于 [GitHub](https://github.com/project-serum/serum-dex-ui)。如果您也是 DEX 的管理人又希望加入以上名单，请和我们联络。
+- [Luna DEX](https://lunadex.com/)
+
+### 移动端
+
+- Coin98: [https://coin98.app](https://coin98.app)
+
+## Serum Swap 名单
+
+### 网页端
+
+- Bonfida Swap: [https://swap.bonfida.com](https://swap.bonfida.com)
+
+- Serum Swap: [http://swap.projectserum.com/](http://swap.projectserum.com/)
+
+- Serum Swap Folkvang.io [https://serum-swap.folkvang.io/](https://serum-swap.folkvang.io/)
+
+- CryptoStarkWolf Swap: [https://serum-swap.cryptostarkwolf.com/](https://serum-swap.cryptostarkwolf.com/)
+
+- SRMSwap(中文版): [https://srmswap.com/](https://srmswap.com/)
+
+- Traderdome: [Traderdome](https://traderdome.io/)
+
+### 移动端
+
+- MathWallet: [https://mathwallet.org](https://mathwallet.org/en-us/)
+
+## 搭建自己的前端
+
+搭建Serum GUI（前端）您可以获得一部分的经过您前端交易的交易手续费。
+
+- 开源的GUI源代码可以在这里找到：
+[https://github.com/project-serum/serum-dex-ui](https://github.com/project-serum/serum-dex-ui)
+
+- 质押以及投票的信息可以在这里找到：
+[https://projectserum.com/staking-voting](https://projectserum.com/staking-voting)
+
+{{% notice 警告 %}}
+以上Serum前端没有经过Project Serum或者Serum Academy审查。使用风险自负。
+{{% /notice %}}
+
