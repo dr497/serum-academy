@@ -46,6 +46,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - [Luna DEX](https://lunadex.com/)
 
+- [Akashnet](http://phzz2bcjjoz7jhvderxo5d.provider1.akashdev.net/#/)
+
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)
@@ -66,7 +68,7 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Traderdome: [Traderdome](https://traderdome.io/)
 
-- In girum imus nocte et consumimur igni  Swap : [https://swap.ingirumimusnocteetconsumimurigni.io](https://swap.ingirumimusnocteetconsumimurigni.io)
+- In girum imus nocte et consumimur igni Swap : [https://swap.ingirumimusnocteetconsumimurigni.io](https://swap.ingirumimusnocteetconsumimurigni.io)
 
 ### Mobile
 
