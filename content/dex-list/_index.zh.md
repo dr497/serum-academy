@@ -55,6 +55,9 @@ weight: 3
 
 - Bonfida Swap: [https://swap.bonfida.com](https://swap.bonfida.com)
 
+- Traderdome: [Traderdome](https://traderdome.io/)
+  - Available in Russian (Русский), Spanish (Español), Korean (한국어), Chinese (简体中文) and Hindi (हिन्दी)
+
 - Serum Swap: [http://swap.projectserum.com/](http://swap.projectserum.com/)
 
 - Serum Swap Folkvang.io [https://serum-swap.folkvang.io/](https://serum-swap.folkvang.io/)
@@ -62,8 +65,6 @@ weight: 3
 - CryptoStarkWolf Swap: [https://serum-swap.cryptostarkwolf.com/](https://serum-swap.cryptostarkwolf.com/)
 
 - SRMSwap(中文版): [https://srmswap.com/](https://srmswap.com/)
-
-- Traderdome: [Traderdome](https://traderdome.io/)
 
 ### 移动端
 
