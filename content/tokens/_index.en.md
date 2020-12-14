@@ -74,7 +74,7 @@ Pools are a way for a group of users to take collective action.
 There are three fees on pool creations and redemptions. When a user U initializes a new pool, they set a fee rate (F).
 
 - F/2.5 is paid to U
-- F/2.5 (min 0.01%) is paid to LQD governance
+- F/2.5 (min 0.01%) is paid to LQID governance
 - F/5 (min 0.005%) is paid to the GUI host
 
 If you host a Pool GUI, you can set the address you want the F/5 GUI fees paid to.
@@ -104,15 +104,15 @@ Whatever you want! But here are a few known areas for improvement:
 - Writing a program to allow a user to initiate a pool where the admin key is an on-chain program that implements a standard AMM via trading on Serum DEX markets.
 - Writing a program that accepts USDC/SOL/SRM and trades it into whatever basket a pool requires for a creation
 
-## What is LQD?
+## What is LQID?
 
-[LQD](https://explorer.solana.com/address/A6aY2ceogBz1VaXBxm1j2eJuNZMRqrWUAnKecrMH85zj) is the governance token of Pools.
+[LQID](https://explorer.solana.com/address/A6aY2ceogBz1VaXBxm1j2eJuNZMRqrWUAnKecrMH85zj) is the governance token of Pools.
 
-Fees from every creation and redemption are governed by LQD (for airdrops, buy/burns, grants, etc.).
+Fees from every creation and redemption are governed by LQID (for airdrops, buy/burns, grants, etc.).
 
-There has been no presale of LQD; there is no team or team allocation. 100% of LQD tokens are held by EcoSerum to benefit the Serum ecosystem and SRM token.
+There has been no presale of LQID; there is no team or team allocation. 100% of LQID tokens are held by EcoSerum to benefit the Serum ecosystem and SRM token.
 
-There are 500,000,000 LQD tokens, and will never be more.
+There are 500,000,000 LQID tokens, and will never be more.
 
 ## Where is the pool program?
 

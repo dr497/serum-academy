@@ -33,21 +33,21 @@
     <title>Tokens in the ecosystem :: Serum Academy</title>
 
     
-    <link href="../../css/nucleus.css?1607913108" rel="stylesheet">
-    <link href="../../css/fontawesome-all.min.css?1607913108" rel="stylesheet">
-    <link href="../../css/hybrid.css?1607913108" rel="stylesheet">
-    <link href="../../css/featherlight.min.css?1607913108" rel="stylesheet">
-    <link href="../../css/perfect-scrollbar.min.css?1607913108" rel="stylesheet">
-    <link href="../../css/auto-complete.css?1607913108" rel="stylesheet">
-    <link href="../../css/atom-one-dark-reasonable.css?1607913108" rel="stylesheet">
-    <link href="../../css/theme.css?1607913108" rel="stylesheet">
-    <link href="../../css/hugo-theme.css?1607913108" rel="stylesheet">
+    <link href="../../css/nucleus.css?1607935860" rel="stylesheet">
+    <link href="../../css/fontawesome-all.min.css?1607935860" rel="stylesheet">
+    <link href="../../css/hybrid.css?1607935860" rel="stylesheet">
+    <link href="../../css/featherlight.min.css?1607935860" rel="stylesheet">
+    <link href="../../css/perfect-scrollbar.min.css?1607935860" rel="stylesheet">
+    <link href="../../css/auto-complete.css?1607935860" rel="stylesheet">
+    <link href="../../css/atom-one-dark-reasonable.css?1607935860" rel="stylesheet">
+    <link href="../../css/theme.css?1607935860" rel="stylesheet">
+    <link href="../../css/hugo-theme.css?1607935860" rel="stylesheet">
     
-    <link href="../../css/theme-mine.css?1607913108" rel="stylesheet">
+    <link href="../../css/theme-mine.css?1607935860" rel="stylesheet">
     
     
 
-    <script src="../../js/jquery-3.3.1.min.js?1607913108"></script>
+    <script src="../../js/jquery-3.3.1.min.js?1607935860"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -76,14 +76,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="../../js/lunr.min.js?1607913108"></script>
-<script type="text/javascript" src="../../js/auto-complete.js?1607913108"></script>
+<script type="text/javascript" src="../../js/lunr.min.js?1607935860"></script>
+<script type="text/javascript" src="../../js/auto-complete.js?1607935860"></script>
 <script type="text/javascript">
     
         var baseurl = "\/en";
     
 </script>
-<script type="text/javascript" src="../../js/search.js?1607913108"></script>
+<script type="text/javascript" src="../../js/search.js?1607935860"></script>
 
     
   </div>
@@ -806,7 +806,7 @@
     <li><a href="#how-do-fees-work">How do fees work?</a></li>
     <li><a href="#what-are-admin-keys">What are admin keys?</a></li>
     <li><a href="#what-is-further-work-that-could-be-done-on-pools">What is further work that could be done on Pools?</a></li>
-    <li><a href="#what-is-lqd">What is LQD?</a></li>
+    <li><a href="#what-is-lqid">What is LQID?</a></li>
     <li><a href="#where-is-the-pool-program">Where is the pool program?</a></li>
   </ul>
 </nav>
@@ -888,7 +888,7 @@
 <p>There are three fees on pool creations and redemptions. When a user U initializes a new pool, they set a fee rate (F).</p>
 <ul>
 <li>F/2.5 is paid to U</li>
-<li>F/2.5 (min 0.01%) is paid to LQD governance</li>
+<li>F/2.5 (min 0.01%) is paid to LQID governance</li>
 <li>F/5 (min 0.005%) is paid to the GUI host</li>
 </ul>
 <p>If you host a Pool GUI, you can set the address you want the F/5 GUI fees paid to.</p>
@@ -916,11 +916,11 @@
 <li>Writing a program to allow a user to initiate a pool where the admin key is an on-chain program that implements a standard AMM via trading on Serum DEX markets.</li>
 <li>Writing a program that accepts USDC/SOL/SRM and trades it into whatever basket a pool requires for a creation</li>
 </ul>
-<h2 id="what-is-lqd">What is LQD?</h2>
-<p><a href="https://explorer.solana.com/address/A6aY2ceogBz1VaXBxm1j2eJuNZMRqrWUAnKecrMH85zj">LQD</a> is the governance token of Pools.</p>
-<p>Fees from every creation and redemption are governed by LQD (for airdrops, buy/burns, grants, etc.).</p>
-<p>There has been no presale of LQD; there is no team or team allocation. 100% of LQD tokens are held by EcoSerum to benefit the Serum ecosystem and SRM token.</p>
-<p>There are 500,000,000 LQD tokens, and will never be more.</p>
+<h2 id="what-is-lqid">What is LQID?</h2>
+<p><a href="https://explorer.solana.com/address/A6aY2ceogBz1VaXBxm1j2eJuNZMRqrWUAnKecrMH85zj">LQID</a> is the governance token of Pools.</p>
+<p>Fees from every creation and redemption are governed by LQID (for airdrops, buy/burns, grants, etc.).</p>
+<p>There has been no presale of LQID; there is no team or team allocation. 100% of LQID tokens are held by EcoSerum to benefit the Serum ecosystem and SRM token.</p>
+<p>There are 500,000,000 LQID tokens, and will never be more.</p>
 <h2 id="where-is-the-pool-program">Where is the pool program?</h2>
 <p>You can find the on-chain pool program <a href="http://explorer.solana.com/address/WvmTNLpGMVbwJVYztYL4Hnsy82cJhQorxjnnXcRm3b6">here</a> (with admin key) and <a href="https://explorer.solana.com/address/71JS8f7y7ASMbuuSMCVG7a3qDdcVco2qYD6bMJeZqUCm">here</a> (without admin key). You can find the code <a href="https://github.com/project-serum/serum-dex/tree/master/pool">here</a>.</p>
 
@@ -1311,19 +1311,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="../../js/clipboard.min.js?1607913108"></script>
-    <script src="../../js/perfect-scrollbar.min.js?1607913108"></script>
-    <script src="../../js/perfect-scrollbar.jquery.min.js?1607913108"></script>
-    <script src="../../js/jquery.sticky.js?1607913108"></script>
-    <script src="../../js/featherlight.min.js?1607913108"></script>
-    <script src="../../js/highlight.pack.js?1607913108"></script>
+    <script src="../../js/clipboard.min.js?1607935860"></script>
+    <script src="../../js/perfect-scrollbar.min.js?1607935860"></script>
+    <script src="../../js/perfect-scrollbar.jquery.min.js?1607935860"></script>
+    <script src="../../js/jquery.sticky.js?1607935860"></script>
+    <script src="../../js/featherlight.min.js?1607935860"></script>
+    <script src="../../js/highlight.pack.js?1607935860"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="../../js/modernizr.custom-3.6.0.js?1607913108"></script>
-    <script src="../../js/learn.js?1607913108"></script>
-    <script src="../../js/hugo-learn.js?1607913108"></script>
+    <script src="../../js/modernizr.custom-3.6.0.js?1607935860"></script>
+    <script src="../../js/learn.js?1607935860"></script>
+    <script src="../../js/hugo-learn.js?1607935860"></script>
 
-    <link href="../../mermaid/mermaid.css?1607913108" rel="stylesheet" />
-    <script src="../../mermaid/mermaid.js?1607913108"></script>
+    <link href="../../mermaid/mermaid.css?1607935860" rel="stylesheet" />
+    <script src="../../mermaid/mermaid.js?1607935860"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
