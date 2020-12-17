@@ -58,6 +58,9 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Bonfida Swap: [https://swap.bonfida.com](https://swap.bonfida.com)
 
+- Traderdome: [Traderdome](https://traderdome.io/)
+  - Available in Russian (Русский), Spanish (Español), Korean (한국어), Chinese (简体中文) and Hindi (हिन्दी)
+
 - Serum Swap: [http://swap.projectserum.com/](http://swap.projectserum.com/)
 
 - Serum Swap Folkvang.io [https://serum-swap.folkvang.io/](https://serum-swap.folkvang.io/)
@@ -65,8 +68,6 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 - CryptoStarkWolf Swap: [https://serum-swap.cryptostarkwolf.com/](https://serum-swap.cryptostarkwolf.com/)
 
 - SRMSwap(中文版): [https://srmswap.com/](https://srmswap.com/)
-
-- Traderdome: [Traderdome](https://traderdome.io/)
 
 - In girum imus nocte et consumimur igni Swap : [https://swap.ingirumimusnocteetconsumimurigni.io](https://swap.ingirumimusnocteetconsumimurigni.io)
 
