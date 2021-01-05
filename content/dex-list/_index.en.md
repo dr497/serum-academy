@@ -12,7 +12,7 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Bonfida Serum DEX: [https://bonfida.com/dex](https://bonfida.com/dex)
 
-- [DexLab]: [https://www.dexlab.space](https://www.dexlab.space)
+- DexLab: [https://www.dexlab.space](https://www.dexlab.space)
 
 - Cryptocurrencies.Ai DEX: [https://dex.cryptocurrencies.ai/](https://dex.cryptocurrencies.ai/)
 
