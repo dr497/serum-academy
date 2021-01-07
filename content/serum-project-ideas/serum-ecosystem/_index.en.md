@@ -27,6 +27,8 @@ If you’re building a new project on Serum, you can coordinate with EcoSerum on
 - Each project can choose to implement a fee/revenue model that is integrated into Project Serum. If they do:
 
   - The Serum nodes will help in managing the project and its revenue
+    - [Staking - Github](https://github.com/project-serum/serum-dex/blob/master/docs/staking.md)
+    - [Node Setup](https://github.com/project-serum/serum-dex/blob/master/docs/node-setup.md)
   - There will be an SPL token minted for the project; call it TA.
   - 100% of the revenue/fees/etc. of the project will go to a weekly buy/burn of TA.
   - The project team will be granted 20% of TA tokens; 1% unlocked, 19% with a 1-7 year lock.
