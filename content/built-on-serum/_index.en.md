@@ -52,6 +52,10 @@ Most of these projects are not open source. Use at your own risk.
 - [Serum Swap](https://swap.projectserum.com/#)
   - [Source code](https://github.com/project-serum/oyster-swap)
 
+### Prediction Markets
+
+- [omega](https://predictomega.org)
+
 ## Blockchain
 
 ### Solana
