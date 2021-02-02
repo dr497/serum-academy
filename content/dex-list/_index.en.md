@@ -52,6 +52,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - [SRM Finance DEX](https://srm.finance/) - This GUI is not affiliated to [Project Serum](https://projectserum.com)
 
+- Serum Trade: [https://serum.trade](https://serum.trade)
+
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)
