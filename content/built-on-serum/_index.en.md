@@ -54,7 +54,7 @@ Most of these projects are not open source. Use at your own risk.
 
 ### Prediction Markets
 
-- [omega](https://predictomega.org)
+- [Omega](https://predictomega.org)
 
 ## Blockchain
 
