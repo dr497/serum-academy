@@ -45,6 +45,8 @@ weight: 3
 
 - [Luna DEX](https://lunadex.com/)
 
+- Serum Trade: [https://serum.trade](https://serum.trade)
+
 ### 移动端
 
 - Coin98: [https://coin98.app](https://coin98.app)
