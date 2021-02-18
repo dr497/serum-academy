@@ -54,6 +54,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Serum Trade: [https://serum.trade](https://serum.trade) - This GUI is not affiliated to [Project Serum](https://projectserum.com)
 
+- Doce Finance Trade: [https://dex.doce.finance/](https://dex.doce.finance/)
+
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)
@@ -77,6 +79,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 - SRMSwap(中文版): [https://srmswap.com/](https://srmswap.com/)
 
 - In girum imus nocte et consumimur igni Swap : [https://swap.ingirumimusnocteetconsumimurigni.io](https://swap.ingirumimusnocteetconsumimurigni.io)
+
+- Doce Finance Swap: [https://swap.doce.finance/](https://swap.doce.finance/)
 
 ### Mobile
 
