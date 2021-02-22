@@ -18,7 +18,7 @@ yarn start
 
 ### Customizing
 
-The Serum DEX UI uses [React](https://reactjs.org) and [Ant Desing](https://ant.design) UI library. To learn how to customize it, refer to their [official guide](https://ant.design/docs/react/customize-theme)
+The Serum DEX UI uses [React](https://reactjs.org) and [Ant Design](https://ant.design) UI library. To learn how to customize it, refer to their [official guide](https://ant.design/docs/react/customize-theme)
 
 ### Collecting fees
 
