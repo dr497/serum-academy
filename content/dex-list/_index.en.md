@@ -56,6 +56,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Doce Finance Trade: [https://dex.doce.finance/](https://dex.doce.finance/)
 
+- Grid Bot [https://gridex.io/](https://gridex.io/) - The Grid Bot build on Solana
+
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)
