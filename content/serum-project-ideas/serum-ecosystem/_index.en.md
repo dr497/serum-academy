@@ -22,8 +22,6 @@ If you’re building a new project on Serum, you can coordinate with EcoSerum on
 
 - For some projects general to Solana, there may be an additional 25 SOL granted for every 100 SRM.
 
-- Each project that receives a grant and successfully launches will also have a 1% chance of winning the MegaSerum!
-
 - Each project can choose to implement a fee/revenue model that is integrated into Project Serum. If they do:
 
   - The Serum nodes will help in managing the project and its revenue
