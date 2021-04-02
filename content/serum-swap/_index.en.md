@@ -144,7 +144,7 @@ Of course! That’s the whole point of DeFi: use this as a building block, compo
 See what [Bonfida](http://bonfida.com/dex) and [CCAI](http://dex.cryptocurrencies.ai) have done with Serum DEXes!
 
 {{% notice tip %}}
-The Serum Swap UI uses [React](https://reactjs.org) and [Ant Desing](https://ant.design) UI library. To learn how to customize it, refer to their [official guide](https://ant.design/docs/react/customize-theme)
+The Serum Swap UI uses [React](https://reactjs.org) and [Ant Design](https://ant.design) UI library. To learn how to customize it, refer to their [official guide](https://ant.design/docs/react/customize-theme)
 {{% /notice %}}
 
 ## Is the AMM on-chain?
