@@ -29,6 +29,7 @@ Most of these projects are not open source. Use at your own risk.
 - [Ourord DEX](https://dex.ourord.com)
 - [TradeOnSerum DEX](https://www.tradeonserum.com/)
 - [YMAX DEX](https://ymax.finance/)
+- [DEX.MN](https://dex.mn/)
 
 ### Mobile DEX GUIs
 
