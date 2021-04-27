@@ -56,6 +56,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Doce Finance Trade: [https://dex.doce.finance/](https://dex.doce.finance/)
 
+- Openserum DEX: [https://openserum.ch/dex](https://openserum.ch/dex/)
+
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)

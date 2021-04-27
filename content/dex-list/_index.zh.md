@@ -47,6 +47,8 @@ weight: 3
 
 - Serum Trade: [https://serum.trade](https://serum.trade)
 
+- Openserum DEX: [https://openserum.ch/dex](https://openserum.ch/dex/)
+
 ### 移动端
 
 - Coin98: [https://coin98.app](https://coin98.app)
