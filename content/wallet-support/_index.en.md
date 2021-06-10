@@ -43,6 +43,16 @@ Website: [https://ftx.us](https://ftx.us)
 
 Website: [https://coin98.app](https://coin98.app)
 
+### [Zelcore Platform](https://zelcore.io)
+
+- SOL, SRM, SPL tokens
+- Serum DEX built-in with automatic wallet connection
+- Desktop, iOS, Android
+- SOL Wallet Adapter for dapp connections
+- Wallet syncing between all devices
+
+Website: [https://zelcore.io](https://zelcore.io)
+
 ### [Ledger](https://www.ledger.com)
 
 - SOL
