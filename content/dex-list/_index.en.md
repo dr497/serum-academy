@@ -58,6 +58,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - Openserum DEX: [https://openserum.ch/dex](https://openserum.ch/dex/)
 
+- Subterrain.Trade [https://subterrain.trade](https://subterrain.trade)
+
 ### Mobile
 
 - Coin98: [https://coin98.app](https://coin98.app)
